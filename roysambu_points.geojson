@@ -13,7 +13,7 @@
    "properties": {
     "name": "Roysambu",
     "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"platform\"",
-    "date": "2021-09-27"
+    "date": "1631491200"
    },
    "geometry": {
     "type": "Point",
@@ -28,7 +28,7 @@
    "properties": {
     "name": "Roysambu",
     "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"platform\"",
-    "date": "2021-09-26"
+    "date": "1632614400"
    },
    "geometry": {
     "type": "Point",
@@ -44,7 +44,7 @@
    "properties": {
     "name": "exit 8",
     "other_tags": null,
-    "date": "2021-09-08"
+    "date": "1632787200"
    },
    "geometry": {
     "type": "Point",
@@ -60,7 +60,7 @@
    "properties": {
     "name": "International Centre for Insect Physiology and Ecology (ICIPE)",
     "other_tags": "\"alt_name\"=>\"ICPE\",\"office\"=>\"government\",\"website\"=>\"http://www.icipe.org/\"",
-    "date": "2021-09-04"
+    "date": "1632355200"
    },
    "geometry": {
     "type": "Point",
@@ -76,7 +76,7 @@
    "properties": {
     "name": "Kenya Organic Agricultural Network",
     "other_tags": "\"alt_name\"=>\"KOAN\",\"office\"=>\"government\",\"website\"=>\"https://www.koan.co.ke/\"",
-    "date": "2021-09-29"
+    "date": "1630540800"
    },
    "geometry": {
     "type": "Point",
@@ -92,7 +92,7 @@
    "properties": {
     "name": "Regional Centre for Mapping of Resources for Development",
     "other_tags": "\"office\"=>\"ngo\",\"short_name\"=>\"RCMRD\"",
-    "date": "2021-09-08"
+    "date": "1630713600"
    },
    "geometry": {
     "type": "Point",
@@ -108,7 +108,7 @@
    "properties": {
     "name": "R&D parking lot",
     "other_tags": "\"access\"=>\"private\",\"amenity\"=>\"parking\",\"fee\"=>\"no\",\"parking\"=>\"surface\",\"park_ride\"=>\"yes\",\"surface\"=>\"paved\"",
-    "date": "2021-09-02"
+    "date": "1631318400"
    },
    "geometry": {
     "type": "Point",
@@ -124,7 +124,7 @@
    "properties": {
     "name": "Shell",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kamiti Road\",\"amenity\"=>\"fuel\",\"brand\"=>\"Shell\",\"brand:wikidata\"=>\"Q154950\",\"brand:wikipedia\"=>\"en:Royal Dutch Shell\"",
-    "date": "2021-09-11"
+    "date": "1630886400"
    },
    "geometry": {
     "type": "Point",
@@ -140,7 +140,7 @@
    "properties": {
     "name": "Standard Chartered",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"bank\",\"atm\"=>\"yes\",\"brand\"=>\"Standard Chartered\",\"brand:wikidata\"=>\"Q548278\",\"brand:wikipedia\"=>\"en:Standard Chartered\"",
-    "date": "2021-09-14"
+    "date": "1631059200"
    },
    "geometry": {
     "type": "Point",
@@ -156,7 +156,7 @@
    "properties": {
     "name": "The Mater Hospital - Satellite Clinic(TRM)",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"clinic\",\"beds\"=>\"0\",\"healthcare\"=>\"clinic\",\"opening_hours\"=>\"Mo 09:00-23:55; Tu-Su 00:00-23:55\",\"operational_status\"=>\"operational\",\"operator:type\"=>\"religious\",\"tag\"=>\"healthcare:counselling=antenatal\"",
-    "date": "2021-09-11"
+    "date": "1632873600"
    },
    "geometry": {
     "type": "Point",
@@ -172,7 +172,7 @@
    "properties": {
     "name": "Roysambu",
     "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"platform\"",
-    "date": "2021-09-06"
+    "date": "1632268800"
    },
    "geometry": {
     "type": "Point",
@@ -188,7 +188,7 @@
    "properties": {
     "name": "ICIPE",
     "other_tags": "\"office\"=>\"ngo\"",
-    "date": "2021-09-21"
+    "date": "1632096000"
    },
    "geometry": {
     "type": "Point",
@@ -204,7 +204,7 @@
    "properties": {
     "name": "Happy Life Childrens' Home",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Lumumba Drive\",\"amenity\"=>\"social_facility\",\"social_facility\"=>\"shelter\",\"social_facility:for\"=>\"homeless\"",
-    "date": "2021-09-17"
+    "date": "1631923200"
    },
    "geometry": {
     "type": "Point",
@@ -220,7 +220,7 @@
    "properties": {
     "name": "Roysambu",
     "other_tags": null,
-    "date": "2021-09-29"
+    "date": "1632700800"
    },
    "geometry": {
     "type": "Point",
@@ -236,7 +236,7 @@
    "properties": {
     "name": "Kasarani Police Station",
     "other_tags": "\"amenity\"=>\"police\",\"name:en\"=>\"Kasarani Police Station\"",
-    "date": "2021-09-06"
+    "date": "1631059200"
    },
    "geometry": {
     "type": "Point",
@@ -252,7 +252,7 @@
    "properties": {
     "name": "Farmer's Choice",
     "other_tags": "\"shop\"=>\"yes\"",
-    "date": "2021-09-08"
+    "date": "1632528000"
    },
    "geometry": {
     "type": "Point",
@@ -268,7 +268,7 @@
    "properties": {
     "name": "Shell Kasarani Petrol Station",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"fuel\"",
-    "date": "2021-09-04"
+    "date": "1632268800"
    },
    "geometry": {
     "type": "Point",
@@ -284,7 +284,7 @@
    "properties": {
     "name": "Roysambu-Town stage",
     "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"platform\"",
-    "date": "2021-09-16"
+    "date": "1632614400"
    },
    "geometry": {
     "type": "Point",
@@ -300,7 +300,7 @@
    "properties": {
     "name": "Oakwood Mirema",
     "other_tags": "\"tourism\"=>\"apartment\"",
-    "date": "2021-09-15"
+    "date": "1630800000"
    },
    "geometry": {
     "type": "Point",
@@ -316,7 +316,7 @@
    "properties": {
     "name": "Royal House",
     "other_tags": "\"tourism\"=>\"apartment\"",
-    "date": "2021-09-05"
+    "date": "1631145600"
    },
    "geometry": {
     "type": "Point",
@@ -332,7 +332,7 @@
    "properties": {
     "name": "Powerstar Supermarket Kasarani",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"shop\"=>\"supermarket\"",
-    "date": "2021-09-19"
+    "date": "1630972800"
    },
    "geometry": {
     "type": "Point",
@@ -348,7 +348,7 @@
    "properties": {
     "name": "Switch",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"club\"=>\"yes\"",
-    "date": "2021-09-18"
+    "date": "1630886400"
    },
    "geometry": {
     "type": "Point",
@@ -364,7 +364,7 @@
    "properties": {
     "name": "RCMRD",
     "other_tags": "\"office\"=>\"yes\"",
-    "date": "2021-09-14"
+    "date": "1630800000"
    },
    "geometry": {
     "type": "Point",
@@ -380,7 +380,7 @@
    "properties": {
     "name": "St Kizito Vocational Training Institute Roysambu Branch",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kamiti Road\",\"amenity\"=>\"college\"",
-    "date": "2021-09-18"
+    "date": "1632355200"
    },
    "geometry": {
     "type": "Point",
@@ -396,7 +396,7 @@
    "properties": {
     "name": "Carrefour",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"brand\"=>\"Carrefour\",\"brand:wikidata\"=>\"Q217599\",\"brand:wikipedia\"=>\"fr:Carrefour (enseigne)\",\"operator\"=>\"Groupe Carrefour\",\"operator:wikidata\"=>\"Q3117359\",\"operator:wikipedia\"=>\"fr:Groupe Carrefour\",\"shop\"=>\"supermarket\"",
-    "date": "2021-09-17"
+    "date": "1631059200"
    },
    "geometry": {
     "type": "Point",
@@ -412,7 +412,7 @@
    "properties": {
     "name": "Creamy Inn-TRM",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-10"
+    "date": "1632182400"
    },
    "geometry": {
     "type": "Point",
@@ -428,7 +428,7 @@
    "properties": {
     "name": "Galitos-TRM",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-25"
+    "date": "1631664000"
    },
    "geometry": {
     "type": "Point",
@@ -444,7 +444,7 @@
    "properties": {
     "name": "Chicken Inn TRM",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-21"
+    "date": "1630713600"
    },
    "geometry": {
     "type": "Point",
@@ -460,7 +460,7 @@
    "properties": {
     "name": "Java House -Thika Road Mall (TRM)",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-07"
+    "date": "1631404800"
    },
    "geometry": {
     "type": "Point",
@@ -476,7 +476,7 @@
    "properties": {
     "name": "Urban Gourmet Burgers TRM",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-03"
+    "date": "1632787200"
    },
    "geometry": {
     "type": "Point",
@@ -492,7 +492,7 @@
    "properties": {
     "name": "ABC Bank",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"bank\",\"atm\"=>\"yes\"",
-    "date": "2021-09-19"
+    "date": "1631318400"
    },
    "geometry": {
     "type": "Point",
@@ -508,7 +508,7 @@
    "properties": {
     "name": "Ecobank ATM Thika Rd Mall",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"bank\"",
-    "date": "2021-09-10"
+    "date": "1630627200"
    },
    "geometry": {
     "type": "Point",
@@ -524,7 +524,7 @@
    "properties": {
     "name": "Barclays Bank - TRM",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"bank\",\"atm\"=>\"yes\"",
-    "date": "2021-09-11"
+    "date": "1631145600"
    },
    "geometry": {
     "type": "Point",
@@ -540,7 +540,7 @@
    "properties": {
     "name": "National Bank ATM-Thika Highway",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"atm\"",
-    "date": "2021-09-22"
+    "date": "1632787200"
    },
    "geometry": {
     "type": "Point",
@@ -556,7 +556,7 @@
    "properties": {
     "name": "Cake City TRM",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"shop\"=>\"bakery\"",
-    "date": "2021-09-02"
+    "date": "1632700800"
    },
    "geometry": {
     "type": "Point",
@@ -572,7 +572,7 @@
    "properties": {
     "name": "Subway",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"fast_food\",\"brand\"=>\"Subway\",\"brand:wikidata\"=>\"Q244457\",\"brand:wikipedia\"=>\"en:Subway (restaurant)\",\"cuisine\"=>\"sandwich\",\"takeaway\"=>\"yes\"",
-    "date": "2021-09-22"
+    "date": "1632700800"
    },
    "geometry": {
     "type": "Point",
@@ -588,7 +588,7 @@
    "properties": {
     "name": "Pizza Planet",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"fast_food\",\"cuisine\"=>\"pizza\"",
-    "date": "2021-09-18"
+    "date": "1631577600"
    },
    "geometry": {
     "type": "Point",
@@ -604,7 +604,7 @@
    "properties": {
     "name": "Beirut Lebanese Cuisine",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"restaurant\",\"cuisine\"=>\"lebanese\"",
-    "date": "2021-09-03"
+    "date": "1632441600"
    },
    "geometry": {
     "type": "Point",
@@ -620,7 +620,7 @@
    "properties": {
     "name": "TRM Rooftop Parking",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"parking\",\"supervised\"=>\"yes\"",
-    "date": "2021-09-16"
+    "date": "1632528000"
    },
    "geometry": {
     "type": "Point",
@@ -636,7 +636,7 @@
    "properties": {
     "name": "Persia Lounge",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-28"
+    "date": "1632528000"
    },
    "geometry": {
     "type": "Point",
@@ -652,7 +652,7 @@
    "properties": {
     "name": "Burger King",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"fast_food\",\"brand\"=>\"Burger King\",\"brand:wikidata\"=>\"Q177054\",\"brand:wikipedia\"=>\"en:Burger King\",\"cuisine\"=>\"burger\",\"takeaway\"=>\"yes\"",
-    "date": "2021-09-25"
+    "date": "1630540800"
    },
    "geometry": {
     "type": "Point",
@@ -668,7 +668,7 @@
    "properties": {
     "name": "Nairobi Sports House Ltd. (Thika Road Mall)",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"shop\"=>\"sports\"",
-    "date": "2021-09-10"
+    "date": "1631664000"
    },
    "geometry": {
     "type": "Point",
@@ -684,7 +684,7 @@
    "properties": {
     "name": "Cold Stone Creamery",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"ice_cream\",\"brand\"=>\"Cold Stone Creamery\",\"brand:wikidata\"=>\"Q1094923\",\"brand:wikipedia\"=>\"en:Cold Stone Creamery\",\"cuisine\"=>\"ice_cream\"",
-    "date": "2021-09-22"
+    "date": "1631318400"
    },
    "geometry": {
     "type": "Point",
@@ -700,7 +700,7 @@
    "properties": {
     "name": "TRM Gate",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\"",
-    "date": "2021-09-19"
+    "date": "1632009600"
    },
    "geometry": {
     "type": "Point",
@@ -716,7 +716,7 @@
    "properties": {
     "name": "Tee Tee Motors",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Thika Road\",\"shop\"=>\"car\"",
-    "date": "2021-09-21"
+    "date": "1630713600"
    },
    "geometry": {
     "type": "Point",
@@ -732,7 +732,7 @@
    "properties": {
     "name": "TRM",
     "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"platform\"",
-    "date": "2021-09-06"
+    "date": "1630627200"
    },
    "geometry": {
     "type": "Point",
@@ -748,7 +748,7 @@
    "properties": {
     "name": "Roysambu",
     "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"platform\"",
-    "date": "2021-09-25"
+    "date": "1631577600"
    },
    "geometry": {
     "type": "Point",
@@ -764,7 +764,7 @@
    "properties": {
     "name": "Kasarani Traffic Unit",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"police\"",
-    "date": "2021-09-15"
+    "date": "1632787200"
    },
    "geometry": {
     "type": "Point",
@@ -780,7 +780,7 @@
    "properties": {
     "name": "Kasarani Police Canteen",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"restaurant\",\"opening_hours\"=>\"Mo-Su 07:00-20:00\"",
-    "date": "2021-09-09"
+    "date": "1631318400"
    },
    "geometry": {
     "type": "Point",
@@ -796,7 +796,7 @@
    "properties": {
     "name": "Robbiz Bar & Grill",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"ICIPE Road\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-08"
+    "date": "1632096000"
    },
    "geometry": {
     "type": "Point",
@@ -812,7 +812,7 @@
    "properties": {
     "name": "Kasarani Group of Schools",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"ICIPE Road\",\"amenity\"=>\"school\"",
-    "date": "2021-09-27"
+    "date": "1632528000"
    },
    "geometry": {
     "type": "Point",
@@ -828,7 +828,7 @@
    "properties": {
     "name": "Icipe's Restaurant",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"ICIPE Road\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-23"
+    "date": "1630713600"
    },
    "geometry": {
     "type": "Point",
@@ -844,7 +844,7 @@
    "properties": {
     "name": "Red Office Lounge & Grill",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-16"
+    "date": "1631491200"
    },
    "geometry": {
     "type": "Point",
@@ -860,7 +860,7 @@
    "properties": {
     "name": "The Monaco Restaurant and Club",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-10"
+    "date": "1631059200"
    },
    "geometry": {
     "type": "Point",
@@ -876,7 +876,7 @@
    "properties": {
     "name": "KWFT",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"bank\",\"atm\"=>\"yes\"",
-    "date": "2021-09-01"
+    "date": "1630540800"
    },
    "geometry": {
     "type": "Point",
@@ -892,7 +892,7 @@
    "properties": {
     "name": "Kuhura Kanua Pub",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"bar\",\"outdoor_seating\"=>\"no\"",
-    "date": "2021-09-21"
+    "date": "1632009600"
    },
    "geometry": {
     "type": "Point",
@@ -908,7 +908,7 @@
    "properties": {
     "name": "Silk Oak Guest House",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"tourism\"=>\"guest_house\"",
-    "date": "2021-09-23"
+    "date": "1632614400"
    },
    "geometry": {
     "type": "Point",
@@ -924,7 +924,7 @@
    "properties": {
     "name": "Pewi Foods Kasarani",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-23"
+    "date": "1632268800"
    },
    "geometry": {
     "type": "Point",
@@ -940,7 +940,7 @@
    "properties": {
     "name": "Hashi Energy",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"fuel\"",
-    "date": "2021-09-14"
+    "date": "1631750400"
    },
    "geometry": {
     "type": "Point",
@@ -956,7 +956,7 @@
    "properties": {
     "name": "Kenchic Inn Kasarani Foods Ltd",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"fast_food\"",
-    "date": "2021-09-20"
+    "date": "1632441600"
    },
    "geometry": {
     "type": "Point",
@@ -972,7 +972,7 @@
    "properties": {
     "name": "Haltons Pharmacy",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"shop\"=>\"chemist\"",
-    "date": "2021-09-29"
+    "date": "1630972800"
    },
    "geometry": {
     "type": "Point",
@@ -988,7 +988,7 @@
    "properties": {
     "name": "Wabuti Supermarket",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"shop\"=>\"supermarket\"",
-    "date": "2021-09-27"
+    "date": "1630540800"
    },
    "geometry": {
     "type": "Point",
@@ -1004,7 +1004,7 @@
    "properties": {
     "name": "Progressive Bar",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"bar\"",
-    "date": "2021-09-17"
+    "date": "1632268800"
    },
    "geometry": {
     "type": "Point",
@@ -1020,7 +1020,7 @@
    "properties": {
     "name": "IAT Kasarani Campus",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"college\"",
-    "date": "2021-09-02"
+    "date": "1630454400"
    },
    "geometry": {
     "type": "Point",
@@ -1036,7 +1036,7 @@
    "properties": {
     "name": "The Wind Pub & Restaurant",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-14"
+    "date": "1631318400"
    },
    "geometry": {
     "type": "Point",
@@ -1052,7 +1052,7 @@
    "properties": {
     "name": "Gesta Supermarket",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Thika Road\",\"shop\"=>\"supermarket\"",
-    "date": "2021-09-14"
+    "date": "1632009600"
    },
    "geometry": {
     "type": "Point",
@@ -1068,7 +1068,7 @@
    "properties": {
     "name": "Andela Kenya",
     "other_tags": "\"description\"=>\"Andela Kenya,\nP.O Box 44437\nNairobi\n\nOff USIU Road\nNairobi\n\nhttps://andela.com/\"",
-    "date": "2021-09-01"
+    "date": "1630800000"
    },
    "geometry": {
     "type": "Point",
@@ -1084,7 +1084,7 @@
    "properties": {
     "name": "Wakalucy Fish Palace",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-14"
+    "date": "1631836800"
    },
    "geometry": {
     "type": "Point",
@@ -1100,7 +1100,7 @@
    "properties": {
     "name": "Family bank",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Powerstar\",\"amenity\"=>\"bank\"",
-    "date": "2021-09-23"
+    "date": "1630454400"
    },
    "geometry": {
     "type": "Point",
@@ -1116,7 +1116,7 @@
    "properties": {
     "name": "Bull and Bush",
     "other_tags": "\"addr:street\"=>\"Kasarani Mwiki Road\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-05"
+    "date": "1630713600"
    },
    "geometry": {
     "type": "Point",
@@ -1132,7 +1132,7 @@
    "properties": {
     "name": "Sweet Waters",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"amenity\"=>\"bar\"",
-    "date": "2021-09-25"
+    "date": "1631145600"
    },
    "geometry": {
     "type": "Point",
@@ -1148,7 +1148,7 @@
    "properties": {
     "name": "Kass pub",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"amenity\"=>\"bar\"",
-    "date": "2021-09-12"
+    "date": "1632096000"
    },
    "geometry": {
     "type": "Point",
@@ -1164,7 +1164,7 @@
    "properties": {
     "name": "Jays Kitchen",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"amenity\"=>\"cafe\"",
-    "date": "2021-09-14"
+    "date": "1632009600"
    },
    "geometry": {
     "type": "Point",
@@ -1180,7 +1180,7 @@
    "properties": {
     "name": "The Bar Chef Mojitos Cocktail",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Lumumba Drive\",\"amenity\"=>\"bar\"",
-    "date": "2021-09-12"
+    "date": "1630454400"
    },
    "geometry": {
     "type": "Point",
@@ -1196,7 +1196,7 @@
    "properties": {
     "name": "Bourbon Sports",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Lumumba 1st Avenue\",\"amenity\"=>\"bar\"",
-    "date": "2021-09-18"
+    "date": "1631923200"
    },
    "geometry": {
     "type": "Point",
@@ -1212,7 +1212,7 @@
    "properties": {
     "name": "Admart",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Lumumba 1st Avenue\",\"shop\"=>\"supermarket\"",
-    "date": "2021-09-26"
+    "date": "1632096000"
    },
    "geometry": {
     "type": "Point",
@@ -1228,7 +1228,7 @@
    "properties": {
     "name": "Roymatt",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Lumumba Drive\",\"shop\"=>\"supermarket\"",
-    "date": "2021-09-01"
+    "date": "1632355200"
    },
    "geometry": {
     "type": "Point",
@@ -1244,7 +1244,7 @@
    "properties": {
     "name": "The Cedars",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"Lumumba Drive\",\"amenity\"=>\"pub\"",
-    "date": "2021-09-28"
+    "date": "1631232000"
    },
    "geometry": {
     "type": "Point",
@@ -1260,7 +1260,7 @@
    "properties": {
     "name": "Addis Alem Ethiopian",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-03"
+    "date": "1631232000"
    },
    "geometry": {
     "type": "Point",
@@ -1276,7 +1276,7 @@
    "properties": {
     "name": "Cake City",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"shop\"=>\"bakery\"",
-    "date": "2021-09-18"
+    "date": "1630627200"
    },
    "geometry": {
     "type": "Point",
@@ -1292,7 +1292,7 @@
    "properties": {
     "name": "Jifiche Grill",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"bar\"",
-    "date": "2021-09-13"
+    "date": "1631836800"
    },
    "geometry": {
     "type": "Point",
@@ -1308,7 +1308,7 @@
    "properties": {
     "name": "Tallyho Wines N Spirits",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"shop\"=>\"alcohol\"",
-    "date": "2021-09-28"
+    "date": "1630972800"
    },
    "geometry": {
     "type": "Point",
@@ -1324,7 +1324,7 @@
    "properties": {
     "name": "Red Plate Lounge",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"restaurant\"",
-    "date": "2021-09-19"
+    "date": "1632441600"
    },
    "geometry": {
     "type": "Point",
@@ -1340,7 +1340,7 @@
    "properties": {
     "name": "Empire Cyber",
     "other_tags": "\"addr:city\"=>\"Nairobi\",\"addr:street\"=>\"TRM Drive\",\"amenity\"=>\"cafe\"",
-    "date": "2021-09-07"
+    "date": "1631577600"
    },
    "geometry": {
     "type": "Point",
@@ -1356,7 +1356,7 @@
    "properties": {
     "name": "Regional Centre for Mapping of resources for Development",
     "other_tags": "\"addr:housenumber\"=>\"P.O. Box 632-00618 Nairobi, Kenya\",\"addr:postcode\"=>\"00618\",\"office\"=>\"ngo\",\"opening_hours\"=>\"Mo-Fr 08:00-17:00\",\"opening_hours:covid19\"=>\"restricted\",\"phone\"=>\"+254723786161\",\"website\"=>\"https://www.rcmrd.org/\"",
-    "date": "2021-09-02"
+    "date": "1631059200"
    },
    "geometry": {
     "type": "Point",
@@ -1372,7 +1372,7 @@
    "properties": {
     "name": "Berton Health Specialists Clinic",
     "other_tags": "\"amenity\"=>\"clinic\",\"beds\"=>\"5\",\"healthcare\"=>\"clinic\",\"healthcare:speciality\"=>\"gynaecology;radiology\",\"opening_hours\"=>\"Mo-Fr 08:00-17:00\",\"operational_status\"=>\"operational\",\"operator:type\"=>\"private\"",
-    "date": "2021-09-09"
+    "date": "1631404800"
    },
    "geometry": {
     "type": "Point",
@@ -1388,7 +1388,7 @@
    "properties": {
     "name": "Gateway Health Care Thome",
     "other_tags": "\"amenity\"=>\"hospital\",\"beds\"=>\"3\",\"healthcare\"=>\"hospital\",\"opening_hours\"=>\"Mo-Su 08:00-17:00\",\"operational_status\"=>\"operational\"",
-    "date": "2021-09-06"
+    "date": "1632528000"
    },
    "geometry": {
     "type": "Point",
@@ -1404,7 +1404,7 @@
    "properties": {
     "name": "Family Access Medical Centre",
     "other_tags": "\"amenity\"=>\"clinic\",\"beds\"=>\"0\",\"healthcare\"=>\"clinic\",\"opening_hours\"=>\"Mo-Su 09:00-17:00\",\"operator:type\"=>\"private\"",
-    "date": "2021-09-23"
+    "date": "1632441600"
    },
    "geometry": {
     "type": "Point",
@@ -1420,7 +1420,7 @@
    "properties": {
     "name": "Pan Africa Christian University",
     "other_tags": "\"addr:postcode\"=>\"00200\",\"addr:street\"=>\"Lumumba Drive\",\"amenity\"=>\"school\",\"opening_hours\"=>\"Mo-Fr 08:00-05:00\"",
-    "date": "2021-09-10"
+    "date": "1630627200"
    },
    "geometry": {
     "type": "Point",
@@ -1436,7 +1436,7 @@
    "properties": {
     "name": "Jesse Kay Children's Hospital",
     "other_tags": "\"amenity\"=>\"hospital\",\"beds\"=>\"46\",\"healthcare\"=>\"hospital\",\"opening_hours\"=>\"Mo-Su 09:00-17:00\",\"operational_status\"=>\"operational\",\"operator:type\"=>\"religious\"",
-    "date": "2021-09-13"
+    "date": "1631059200"
    },
    "geometry": {
     "type": "Point",
